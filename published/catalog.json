@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T15:42:40Z",
+  "updatedAt": "2026-10-16T15:56:16Z",
   "extensions": [
     {
       "id": "com.openclip.alternatingcase",
@@ -215,11 +215,11 @@
       "description": "Capitalize the first letter of every word.",
       "author": "OpenClip Team",
       "icon": "icon.svg",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "downloadCount": 257,
-      "downloadURL": "https://github.com/ganeshmshetty/openclip-extensions/releases/download/com.openclip.capitalizewords@1.1.0/CapitalizeWords.openclipext.zip",
+      "downloadURL": "https://github.com/ganeshmshetty/openclip-extensions/releases/download/com.openclip.capitalizewords@1.1.1/CapitalizeWords.openclipext.zip",
       "iconURL": "https://cdn.jsdelivr.net/gh/ganeshmshetty/openclip-extensions@main/published/icons/com.openclip.capitalizewords.svg",
-      "publishedAt": "2026-09-24T23:46:29+05:30",
+      "publishedAt": "2026-10-16T15:54:08Z",
       "addedAt": "2026-08-20T21:44:44+05:30"
     },
     {
@@ -1138,11 +1138,11 @@
       "description": "Replace line breaks with spaces.",
       "author": "OpenClip Team",
       "icon": "icon.svg",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "downloadCount": 126,
-      "downloadURL": "https://github.com/ganeshmshetty/openclip-extensions/releases/download/com.openclip.removelinebreaks@1.1.0/RemoveLineBreaks.openclipext.zip",
+      "downloadURL": "https://github.com/ganeshmshetty/openclip-extensions/releases/download/com.openclip.removelinebreaks@1.2.0/RemoveLineBreaks.openclipext.zip",
       "iconURL": "https://cdn.jsdelivr.net/gh/ganeshmshetty/openclip-extensions@main/published/icons/com.openclip.removelinebreaks.svg",
-      "publishedAt": "2026-09-24T23:46:29+05:30",
+      "publishedAt": "2026-10-16T15:54:08Z",
       "addedAt": "2026-08-20T21:44:44+05:30"
     },
     {
