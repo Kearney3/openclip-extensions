@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T17:08:16Z",
+  "updatedAt": "2026-10-16T15:42:40Z",
   "extensions": [
     {
       "id": "com.openclip.alternatingcase",
@@ -83,7 +83,7 @@
       "id": "io.appwrite.openclip",
       "name": "Appwrite",
       "description": "Use the selection with your Appwrite project: execute a Function on it and use the reply.",
-      "author": "Matej \"Meldiron\" Ba\u010do",
+      "author": "Matej \"Meldiron\" Bačo",
       "icon": "icon.svg",
       "version": "1.1.0",
       "downloadCount": 11,
@@ -137,11 +137,11 @@
       "description": "Translate selected text in Bob using your existing translation services.",
       "author": "s010s",
       "icon": "icon.svg",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "downloadCount": 218,
-      "downloadURL": "https://github.com/ganeshmshetty/openclip-extensions/releases/download/io.github.s010s.openclip.bob@1.1.0/Bob.openclipext.zip",
+      "downloadURL": "https://github.com/ganeshmshetty/openclip-extensions/releases/download/io.github.s010s.openclip.bob@1.1.1/Bob.openclipext.zip",
       "iconURL": "https://cdn.jsdelivr.net/gh/ganeshmshetty/openclip-extensions@main/published/icons/io.github.s010s.openclip.bob.svg",
-      "publishedAt": "2026-09-24T23:46:29+05:30",
+      "publishedAt": "2026-10-16T21:09:15+05:30",
       "addedAt": "2026-09-08T08:15:57+05:30"
     },
     {
@@ -455,6 +455,19 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/ganeshmshetty/openclip-extensions@main/published/icons/com.echohn.openclip.due.svg",
       "publishedAt": "2026-09-24T23:46:29+05:30",
       "addedAt": "2026-09-13T15:17:33+08:00"
+    },
+    {
+      "id": "com.openclip.eudic",
+      "name": "Eudic",
+      "description": "Look up the selected text in Eudic, the Chinese-English dictionary.",
+      "author": "Kearney3",
+      "icon": "icon.png",
+      "version": "1.0.0",
+      "downloadCount": 0,
+      "downloadURL": "https://github.com/ganeshmshetty/openclip-extensions/releases/download/com.openclip.eudic@1.0.0/Eudic.openclipext.zip",
+      "iconURL": "https://cdn.jsdelivr.net/gh/ganeshmshetty/openclip-extensions@main/published/icons/com.openclip.eudic.svg",
+      "publishedAt": "2026-10-16T15:40:35Z",
+      "addedAt": "2026-10-16T21:10:26+05:30"
     },
     {
       "id": "com.openclip.extractemails",
@@ -1057,7 +1070,7 @@
     {
       "id": "com.openclip.quick-translate",
       "name": "Quick Translate",
-      "description": "Translate the selected text instantly \u2014 result previewed in the popup or pasted in place. Fully keyless: cascades across Google, LibreTranslate, SimplyTranslate, and Lingva endpoints with source-language auto-detection.",
+      "description": "Translate the selected text instantly — result previewed in the popup or pasted in place. Fully keyless: cascades across Google, LibreTranslate, SimplyTranslate, and Lingva endpoints with source-language auto-detection.",
       "author": "OpenClip Team",
       "icon": "character.bubble",
       "version": "1.2.0",
